@@ -1,6 +1,7 @@
 # image-slider-minimal
 This project includes a responsive image slider with a minimal design. All the images are fetched through an API, and the call management was done using Axios. The project preview can be seen in the mockups. 
 
+![image](https://github.com/YoungCeoOfSCZG/image-slider-minimal/assets/145061884/ad786f7f-3390-4047-81d9-101381a84680)
 
 ![screencapture-127-0-0-1-5500-index-html-2023-10-16-10_03_31](https://github.com/YoungCeoOfSCZG/image-slider-minimal/assets/145061884/121db7fa-a322-42c7-9222-170ab06f89e5)
 
