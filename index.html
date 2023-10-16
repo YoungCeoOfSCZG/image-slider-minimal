@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <link href="https://api.fontshare.com/v2/css?f[]=satoshi@700,500,400&display=swap" rel="stylesheet">
+    <title>Image Slider</title>
+</head>
+<body>
+    <div class="body-wrapper">
+
+        <header class="header-wrapper">
+            <div class="header-title">
+                <h1>Smart Slider</h1>
+            </div>
+        </header>
+    
+        <main>
+            <div class="content-wrapper">
+                <div class="slider">
+                    <div class="wrapper-img">
+                        <img src="" alt="" id="img-container">
+                        <div class="title-img">
+                            <div class="title-h3"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container-btn">
+                    <button class="btn prev">
+                        <img src="/asset/remove.svg" alt="add icon">Previous
+                    </button>
+                    <button class="btn next">Next
+                        <img src="/asset/add.svg" alt="add icon">
+                    </button>
+                </div>
+            </div>
+        </main>
+    
+        <footer>
+            <div class="footer-wrapper">
+                <div class="left">
+                    <p>YoungCeo Design</p>
+                    <img src="/asset/tool.svg" alt="tool icon">
+                </div>
+                <div class="right">
+                    <img src="/asset/facebook.svg" alt="">
+                    <img src="/asset/youtube.svg" alt="">
+                    <img src="/asset/discord.svg" alt="">
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>
