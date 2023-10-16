@@ -1,4 +1,6 @@
-const accessKey = 'tNoQG1p8SOIRf-Ndwg9Sm6LfzuenzwfWZ9lWybMa6TM';
+//the key is hidden because the API is personal
+
+const accessKey = 'tN************************';
 let currentIndex = 0;
 let allImage;
 
